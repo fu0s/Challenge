@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Challenge</string>
+        <string name="action_settings">Settings</string>
+
+
+        <string name="hint_email_username">email or username</string>
+        <string name="hint_username">اسم المستخدم</string>
+        <string name="hint_password">Password</string>
+
+        <string name="btn_sign_up">sign up</string>
+        <string name="btn_sign_in">sign in</string>
+
+        <string name="err_msg_email_username">email or username invalid</string>
+
+        <string name="err_msg_password">Password is invalid</string>
+
+        <string name="welcoming_text">Let\'s challenge the world !!</string>
+
+
+</resources>
